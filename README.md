@@ -1,8 +1,10 @@
-# ☑️ **ToDo List for today**
+# ☑️ **ToDo List for today**  
 
-✅ Работа с DOM    
-✅ Отслеживание событий    
-✅ Отображение элементов на странице    
-✅ Работа с LocalStorage    
+Адаптивная мобильная верстка ToDo List on JS.  
 
-[Todo List](https://8807010.github.io/To-do-list-for-today/)
+✅ Работа с DOM  
+✅ Отслеживание событий  
+✅ Отображение элементов на странице  
+✅ Работа с LocalStorage  
+ 
+[![Todo List](https://github.com/8807010/To-do-list-for-today/blob/master/preview.jpg)](https://8807010.github.io/To-do-list-for-today/)  
